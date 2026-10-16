@@ -26,6 +26,10 @@ Read the chapters in order the first time. Later chapters assume the vocabulary 
 | 11 | [Bridging your background](chapters/11-bridging-your-background.md) | What transfers, what doesn't, and how to tell your story |
 | 12 | [Glossary and further reading](chapters/12-glossary-and-reading.md) | Terms, plus a short list of material worth your time |
 
+## Follow-up guide
+
+[Inside the Cloud: A D&R Reader's Guide](cloud/README.md) goes one level deeper into the environment you'd be defending: cloud organization and accounts, IAM, keys and secrets, Kubernetes, storage, networking, pipelines, cloud logging, two worked incidents, and the AI lab cloud.
+
 ## One caveat
 
 Everything in chapter 10 about Anthropic comes from public material and general reasoning about the threat model of a frontier AI lab. It does not describe Anthropic's internal setup. Treat it as a framework for thinking about the role, not as facts about the team.
